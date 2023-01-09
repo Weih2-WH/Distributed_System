@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GetYourBeautifulPoetry</string>
+    <string name="hello">Type the input type of your search.</string>
+    <string name="hello2">Type a keyword to search for the poetry information.</string>
+    <string name="explanation">1) If you choose input type = "author", then type some keywords of the author name in the second blank.
+    2) If you choose input type = "title", then type some keywords of the poetry\'s title in the second blank.
+        3) If you choose input type = "lines", then type some keywords of the lines of the poetry in the second blank.
+    4)　If you choose input type = "random", then type a random number in the second blank.</string>
+    <string name="action_settings">Action</string>
+</resources>
